@@ -1,0 +1,15 @@
+#down {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  #down:hover {
+    background-color: RoyalBlue;
+  }
+
+#sha{
+  color: black;
+}
